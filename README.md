@@ -30,9 +30,7 @@ I'm a versatile web developer with a passion for crafting dynamic, responsive we
                                 <img width="48" height="48" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
                                 <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-shadow-tal-revivo"/>
                                 <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
-
-
-<img width="32" height="32" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-etl-data-engineering-outline-outline-black-m-oki-orlando.png" alt="external-etl-data-engineering-outline-outline-black-m-oki-orlando"/>
+                                <img width="32" height="32" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-etl-data-engineering-outline-outline-black-m-oki-orlando.png" alt="external-etl-data-engineering-outline-outline-black-m-oki-orlando"/>
                                 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
                                 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
                                 <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
